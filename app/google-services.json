@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "339547941098",
+    "firebase_url": "https://rugged-weft-193609.firebaseio.com",
+    "project_id": "rugged-weft-193609",
+    "storage_bucket": "rugged-weft-193609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339547941098:android:75613e29829ffff9",
+        "android_client_info": {
+          "package_name": "ph.codegum.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339547941098-37it3nmpdqlgimh6u87cdl31r8qsujn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV8uA2QYo4T5f63UyN21JdyqR8CdJeJ3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

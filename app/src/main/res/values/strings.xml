@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Push Notification</string>
+    <string name="msg_unsubscribe">Unsubscribe to %1$s</string>
+    <string name="msg_subscribe">Subscribe to %1$s</string>
+
+    <string name="news_topic">News</string>
+    <string name="announcement_topic">Announcement</string>
+
+    <string name="notification_title">Title</string>
+    <string name="notification_body">Body</string>
+
+</resources>
